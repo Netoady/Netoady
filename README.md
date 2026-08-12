@@ -1,46 +1,55 @@
-<h1 align="center">✨ Oi, bem-vindo(a) ao meu perfil! ✨</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" width="100%"/>
+  
+  <h1>Desenvolvedor em formação.</h1>
 
-### 👾 Eu sou Francisco Neto:
+  <a href="www.linkedin.com/in/francisco-neto-0450a0231"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:frankldyy@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  
+  <br /><br />
 
-Atualmente estudante no 6º período de **Tecnologia em Sistemas para Internet no IFPB**, Bacharel em Comunicação Social pela UEPB e entusiasta da área de dados. Tenho interesse em desenvolvimento **Back-end e Front-end**, engenharia de software e análise de dados. Neste GitHub compartilho meus projetos acadêmicos e pessoais, buscando aprender continuamente e aplicar boas práticas de desenvolvimento.
+  <img src="https://github-readme-stats.vercel.app/api?username=Netoady&show_icons=true&theme=dark&include_all_commits=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netoady&layout=compact&theme=dark" height="175" />
+</div>
+
+<br />
+
+### 👨‍💻 Sobre Mim:
+
+Olá! Sou o Francisco Neto. Atualmente estudante no sexto período (6/6) de Tecnologia em Sistemas para Internet pelo IFPB e Bacharel em Comunicação Social pela UEPB. Tenho forte interesse em desenvolvimento Back-end, Front-end, engenharia de software e análise de dados. Gosto de aplicar boas práticas para criar soluções eficientes e compartilhar aprendizados em meus projetos acadêmicos e pessoais.
 
 ---
 
-### 👇 Entre em contato
+### 🖥️ Tecnologias e Ferramentas:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+#### Front-end:
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
----
+#### Back-end:
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-### 💻 Tecnologias e Linguagens que conheço
+#### Frameworks e Bibliotecas:
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71100?style=flat&logo=sqlalchemy&logoColor=white)
 
-#### Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### Banco de Dados:
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-#### Back-end & ORM
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71100?style=for-the-badge&logo=sqlalchemy&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-#### Banco de Dados & BI
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-#### Ferramentas & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+#### Ferramentas e SO:
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-121011?style=flat&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 #### Metodologias & Gestão
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrum&logoColor=white)
@@ -48,10 +57,15 @@ Atualmente estudante no 6º período de **Tecnologia em Sistemas para Internet n
 
 ---
 
+### 📌 Projetos em Destaque:
+
+* 🎵 **SpringMusic:** A aplicação Web do projeto Spring Music visa centralizar a história e as produções das trilhas sonoras das novelas brasileiras de forma acessível para pesquisa e navegação.
+  * 🌐 [Acessar Site do Projeto](https://sites.google.com/view/so-far-projeto-spring-music/p%C3%A1gina-inicial)
+
+---
+
 ### 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Netoady&show_icons=true&theme=radial&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netoady&layout=compact&theme=radial" alt="Linguagens mais usadas" />
+  <img src="https://github-profile-3d-contrib.puppettools.workers.dev?username=Netoady&theme=dark" alt="Gráfico 3D de Contribuições" />
 </div>
