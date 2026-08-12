@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header" width="100%"/>
   
   <h1>Desenvolvedor em formação.</h1>
 
@@ -8,15 +8,15 @@
   
   <br /><br />
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Netoady&show_icons=true&theme=dark&include_all_commits=true" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Netoady&layout=compact&theme=dark" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Netoady&theme=dark" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Netoady&layout=compact&theme=dark" height="175" alt="Most Used Languages" />
 </div>
 
 <br />
 
 ### 👨‍💻 Sobre Mim:
 
-Olá! Sou o Francisco Neto. Atualmente estudante no sexto período (6/6) de Tecnologia em Sistemas para Internet pelo IFPB e Bacharel em Comunicação Social pela UEPB. Tenho forte interesse em desenvolvimento Back-end, Front-end, engenharia de software e análise de dados. Gosto de aplicar boas práticas para criar soluções eficientes e compartilhar aprendizados em meus projetos acadêmicos e pessoais.
+Olá! Me chamo Francisco Neto. Atualmente estudante no sexto período (6/6) de Tecnologia em Sistemas para Internet pelo IFPB e Bacharel em Comunicação Social pela UEPB. Tenho forte interesse em desenvolvimento Back-end, Front-end, engenharia de software e análise de dados. Gosto de aplicar boas práticas para criar soluções eficientes e compartilhar aprendizados em meus projetos acadêmicos e pessoais.
 
 ---
 
@@ -67,5 +67,5 @@ Olá! Sou o Francisco Neto. Atualmente estudante no sexto período (6/6) de Tecn
 ### 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.puppettools.workers.dev?username=Netoady&theme=dark" alt="Gráfico 3D de Contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Netoady&theme=react-dark" width="100%" alt="Gráfico de Atividade" />
 </div>
