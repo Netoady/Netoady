@@ -59,7 +59,7 @@ Olá! Me chamo Francisco Neto. Atualmente estudante no sexto período (6/6) de T
 
 ### 📌 Projetos em Destaque:
 
-* 🎵 **SpringMusic:** A aplicação Web do projeto Spring Music visa centralizar a história e as produções das trilhas sonoras das novelas brasileiras de forma acessível para pesquisa e navegação.
+* 🎵 **SpringMusic:** O Spring Music é um sistema web desenvolvido para auxiliar organizadores de eventos e festivais culturais no gerenciamento de votações musicais de forma acessível e segura. A plataforma centraliza informações sobre os eventos e os artistas participantes, permitindo que o público acompanhe as opções disponíveis, ouça as descrições em áudio e registre seus votos com facilidade.
   * 🌐 [Acessar Site do Projeto](https://sites.google.com/view/so-far-projeto-spring-music/p%C3%A1gina-inicial)
 
 ---
